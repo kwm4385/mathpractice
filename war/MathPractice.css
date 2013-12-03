@@ -1,0 +1,125 @@
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 40px 0px 25px;
+	text-align: center;
+	font-family: sans-serif
+}
+
+.sendButton {
+    display: block;
+    font-size: 16pt;
+}
+
+.gwt-DialogBox {
+    width: 400px;
+}
+
+.gwt-RadioButton {
+	position: absolute;
+	display: inline-block;
+	width:20px;
+	height:20px;
+}
+
+.dialogVPanel {
+    margin: 5px;
+}
+
+.serverResponseLabelError {
+    color: red;
+}
+
+#closeButton {
+    margin: 15px 6px 6px;
+}
+
+#mathPractice {
+    position:absolute;
+    width:600px;
+    height:400px;
+    left:50%;
+    margin-left:-310px;
+    margin-top: 25px;
+}
+
+#noscript {
+	width: 22em; 
+	position: absolute; 
+	left: 50%; 
+	margin-left: -11em; 
+	color: red; 
+	background-color: white; 
+	border: 1px solid red; 
+	padding: 4px; 
+	font-family: sans-serif
+}
+
+.main {
+	position: absolute;
+    width: 50%;
+    height: 90%;
+    left: 25%;
+    background-color: #ffffff;
+    -moz-border-radius: 15px;
+	border-radius: 15px;
+	overflow:auto;
+	min-width: 650;
+}
+
+#footer {
+	position: absolute;
+    bottom: 0;
+	width:50%;
+	height: 25px;
+	left: 25%;
+	color: #000000; 
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #ffffff;
+	border-radius: 5px;
+    padding-top: 7px;
+    overflow:hidden;
+    min-width: 650;
+}
+
+.popup {
+	position: absolute;
+    margin-left:auto;
+	margin-right:auto;
+	width:70%;
+ }
+
+.scorelabel {
+	font-weight: bold;
+	font-size: 18px;
+	display: inline-block;
+}
+
+.redlabel {
+	color:red;
+	padding: 2px;
+}
+
+.greenlabel {
+	color:green;
+	padding: 2px;
+}'
+
+.resultsTab {
+	min-height: 400px;
+	min-width: 600px;
+}
+
+.padded-label {
+	padding: 2px;
+}
+
+.padded {
+	padding: 4px;
+}
+
+.bold {
+	font-weight: bold;
+}
